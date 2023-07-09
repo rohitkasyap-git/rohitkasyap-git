@@ -1,4 +1,4 @@
-# Hi, I'm Rohit Kasyap! 👋
+# Hi there, I'm Rohit Kasyap! 👋
 ## 🚀 **About Me**
 
 👋 I'm a `DevSecOps`, `Cybersecurity` and `SRE` Engineer. Here, I share my projects and knowledge resources related to these fields.
