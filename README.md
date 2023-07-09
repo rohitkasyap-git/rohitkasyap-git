@@ -10,7 +10,7 @@ Let's shape the future towards a 'Man and Machine' rather than a 'Man vs Machine
 
 In other terms, let's create `Utopia`!
 
-## 🔗 **Let's connect**
+## 🔗 **Let's Connect**
 For collaborations or interesting conversations, email me at rohitkasyap97@gmail.com, or direct message  me on any of the below social media platforms. 
 
 Always looking forward to working along with great minds. Let's `brainstorm` 🧠 ...
