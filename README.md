@@ -3,7 +3,7 @@
 
 👩‍💻 I'm a `DevSecOps`, `Cybersecurity` and `SRE` Engineer. Here, I share my projects and knowledge resources related to these fields.
 
-My interests for `futurism`, `environment protection`, and `mental health` makes me deeply passionate about creating a sustainable and thriving future for both humanity and the planet!
+My interests in `futurism`, `environment protection`, and `mental health` makes me deeply passionate about creating a sustainable and thriving future for both humanity and the planet!
 
 In the realm of AI driven technologies, I'm fascinated by the endless possibilities they hold. 
 Let's shape the future towards a 'Man and Machine' rather than a 'Man vs Machine' regime. 
@@ -13,7 +13,7 @@ In other terms, let's create `Utopia`!
 ## 🔗 **Let's Connect**
 For collaborations or interesting conversations, email me at rohitkasyap97@gmail.com, or direct message  me on any of the below social media platforms. 
 
-Always looking forward to working along with great minds. Let's `brainstorm` 🧠 ...
+Always looking forward to working with great minds. Let's `brainstorm` 🧠 ...
 
 Now, what's stopping you from sending the first 'Hey!'
 
