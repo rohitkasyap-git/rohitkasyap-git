@@ -1,7 +1,5 @@
 <h1 style="color: #44AEFB;"> 👨‍💻 Rohit Kasyap </h1>
 
-![Blue Black Futuristic Technology Video](https://github.com/rohitkasyap-git/rohitkasyap-git/assets/64189933/4add17ff-eff9-4d01-b618-752c1884bbf1)
-
 <p align:"center" style="text-align: justify; margin: 0 50px; font-size: 17px;" >
     Rohit Kasyap's portfolio. 
 <br>
