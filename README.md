@@ -1,7 +1,7 @@
 # Hi there, I'm Rohit Kasyap! 👋
 ## 🚀 **About Me**
 
-👋 I'm a `DevSecOps`, `Cybersecurity` and `SRE` Engineer. Here, I share my projects and knowledge resources related to these fields.
+👩‍💻 I'm a `DevSecOps`, `Cybersecurity` and `SRE` Engineer. Here, I share my projects and knowledge resources related to these fields.
 
 My interests for `futurism`, `environment protection`, and `mental health` makes me deeply passionate about creating a sustainable and thriving future for both humanity and the planet!
 
