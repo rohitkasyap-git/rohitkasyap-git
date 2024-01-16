@@ -77,7 +77,7 @@ Now, what's stopping you from sending the first 'Hey!'
     - `security` : <img align="middle" alt="kali linux" src="https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white"/>
     - `containers` : <img align="middle" alt="rancher" src="https://img.shields.io/badge/rancher-%230075A8.svg?style=for-the-badge&logo=rancher&logoColor=white"/>  
 
-- `other technologies` : <img align="powerbi" alt="canva" src="https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/> <img align="vercel" alt="canva" src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white"/>
+- `other technologies` : <img align="powerbi" alt="canva" src="https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/> 
 
 - `design tools` : <img align="middle" alt="canva" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white"/> <img align="middle" alt="figma" src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"/>
 
