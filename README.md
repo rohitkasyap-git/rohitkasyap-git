@@ -4,16 +4,16 @@
 👩‍💻 I'm a `DevSecOps`, `Cloud` and `SRE` Engineer. 
 
 ## 🔗 **Let's Connect**
-For collaborations or interesting conversations, email me at rohitkasyap97@gmail.com, or direct message me on any of the below social media platforms. 
+For collaborations and interesting conversations, email me at rohitkasyap.parcha@gmail.com, or direct message me on any of the below social media platforms. 
 
-Always looking forward to working with great minds. Let's `brainstorm` 🧠 ...
-
-Now, what's stopping you from sending the first 'Hey!'
+Let's `brainstorm` 🧠 ...
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rohitkasyap/)
 [![instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/rohitkasyap_/)
 [![discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/rohitkasyap_)
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://meta.stackoverflow.com/users/14165445/rohit-kasyap)
+
+Now, what's stopping you from sending the first 'Hey!'
 
 ## ⚙️ **Skills**
 #### **Version control and CICD:**
