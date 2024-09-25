@@ -63,6 +63,7 @@ Now, what's stopping you from sending the first 'Hey!'
 
 - `spreadsheets` : <img align="middle" alt="excel" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
 
+- `planning and documentation` : <img align="middle" alt="obsidian" src="https://img.shields.io/badge/Obsidian-%23483699.svg?style=for-the-badge&logo=obsidian&logoColor=white"/>
 
 #### **Short-term learning goals:**
 
@@ -82,12 +83,6 @@ Now, what's stopping you from sending the first 'Hey!'
 - `other technologies` : <img align="middle" alt="rabbitmq" src="https://img.shields.io/badge/Rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white"/> <img align="middle" alt="redis" src="https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white"/>
 
 - `design tools` : <img align="middle" alt="blender" src="https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white"/>
-
-#### **Forever indebted to:**
-
-- `learning sources` : <img align="middle" alt="youtube" src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white"/> <img align="middle" alt="udemy" src="https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white"/>
-
-- `planning and documentation` : <img align="middle" alt="obsidian" src="https://img.shields.io/badge/Obsidian-%23483699.svg?style=for-the-badge&logo=obsidian&logoColor=white"/>
 
 ## ⚡️**My GitHub**
 
