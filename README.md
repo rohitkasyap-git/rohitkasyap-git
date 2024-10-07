@@ -88,6 +88,8 @@ Now, what's stopping you from sending the first 'Hey!'
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=rohitkasyap-git&hide=stars&count_private=true&show_icons=true&theme=algolia&border_radius=20)
 
+[![roadmap.sh](https://roadmap.sh/card/wide/6697e198bf471856f5f7120e?variant=dark&roadmaps=devops%2Ccyber-security%2Cfull-stack%2Csystem-design)](https://roadmap.sh)
+
 ![Streak](https://streak-stats.demolab.com?user=rohitkasyap-git&count_private=true&theme=algolia&border_radius=20)
 
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rohitkasyap-git&layout=compact&show_icons=true&theme=algolia&border_radius=20)
