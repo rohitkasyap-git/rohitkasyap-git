@@ -1,18 +1,13 @@
 # Hi there, I'm Rohit Kasyap! 👋
 ## 🚀 **About Me**
 
-👩‍💻 I'm a `DevSecOps`, `Cloud` and `SRE` Engineer. 
+👩‍💻 I'm a `DevOps`, `Cloud`, `Cyber Security` and `SRE` Engineer. 
 
 ## 🔗 **Let's Connect**
-For collaborations and interesting conversations, email me at rohitkasyap.parcha@gmail.com, or direct message me on any of the below social media platforms. 
-
-Let's `brainstorm` 🧠 ...
+For collaborations and interesting conversations, email me at rohitkasyap.parcha@gmail.com, or you can just 'Hi' me anytime @
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rohitkasyap/)
 [![instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/rohitkasyap_/)
-[![discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/rohitkasyap_)
-
-Now, what's stopping you from sending the first 'Hi!'
 
 ## ⚙️ **Skills**
 #### **Version control and CICD:**
@@ -35,9 +30,9 @@ Now, what's stopping you from sending the first 'Hi!'
 
 #### **Programming, Databases and OS:**
 
-- `languages` : <img align="middle" alt="shell script" src="https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white"/> <img align="middle" alt="python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/> <img align="middle" alt="groovy" src="https://img.shields.io/badge/Apache%20Groovy-4298B8.svg?style=for-the-badge&logo=Apache+Groovy&logoColor=white"/> <img align="middle" alt="htlm5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/> <img align="middle" alt="tailwind css" src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white"/> <img align="middle" alt="javascript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> <img align="middle" alt="svelte" src="https://img.shields.io/badge/svelte-%23f1413d.svg?style=for-the-badge&logo=svelte&logoColor=white"/>
+- `languages` : <img align="middle" alt="shell script" src="https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white"/> <img align="middle" alt="python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/> <img align="middle" alt="groovy" src="https://img.shields.io/badge/Apache%20Groovy-4298B8.svg?style=for-the-badge&logo=Apache+Groovy&logoColor=white"/> 
 
-- `libraries and frameworks` : <img align="middle" alt="pandas" src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white"/> <img align="middle" alt="fast api" src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi"/> <img align="middle" alt="numpy" src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white"/> <img align="middle" alt="plotly" src="https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white"/> <img align="middle" alt="django" src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white"/> <img align="middle" alt="flask" src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white"/>
+- `libraries and frameworks` : <img align="middle" alt="pandas" src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white"/> <img align="middle" alt="fast api" src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi"/> <img align="middle" alt="numpy" src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white"/> <img align="middle" alt="plotly" src="https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white"/> 
 
 - `databases` : <img align="middle" alt="postgres" src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white"/>
 
@@ -64,24 +59,17 @@ Now, what's stopping you from sending the first 'Hi!'
 
 - `planning and documentation` : <img align="middle" alt="obsidian" src="https://img.shields.io/badge/Obsidian-%23483699.svg?style=for-the-badge&logo=obsidian&logoColor=white"/>
 
-#### **Short-term learning goals:**
+#### **Interests:**
 
 - `devsecops and sre` : 
     - `observability` : <img align="middle" alt="elastic search" src="https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch"/> <img align="middle" alt="splunk" src="https://img.shields.io/badge/splunk-%23000000.svg?style=for-the-badge&logo=splunk&logoColor=white"/>
     - `security` : <img align="middle" alt="kali linux" src="https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white"/>
-    - `containers` : <img align="middle" alt="rancher" src="https://img.shields.io/badge/rancher-%230075A8.svg?style=for-the-badge&logo=rancher&logoColor=white"/>  
-
-- `other technologies` : <img align="powerbi" alt="canva" src="https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/> 
-
-- `design tools` : <img align="middle" alt="canva" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white"/> <img align="middle" alt="figma" src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"/>
-
-#### **Long-term learning goals:**
+    
+- `other technologies` : <img align="powerbi" alt="canva" src="https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+- 
+- `design tools` : <img align="middle" alt="canva" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white"/> <img align="middle" alt="figma" src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"/> <img align="middle" alt="blender" src="https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white"/>
 
 - `iot development` : <img align="middle" alt="raspberry pi" src="https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi"/> <img align="middle" alt="rust" src="https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white"/> <img align="middle" alt="zigbee" src="https://img.shields.io/badge/zigbee-%23EB0443.svg?style=for-the-badge&logo=zigbee&logoColor=white"/> <img align="middle" alt="arduino" src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white"/> 
-
-- `other technologies` : <img align="middle" alt="rabbitmq" src="https://img.shields.io/badge/Rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white"/> <img align="middle" alt="redis" src="https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white"/>
-
-- `design tools` : <img align="middle" alt="blender" src="https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white"/>
 
 ## ⚡️**My GitHub**
 
